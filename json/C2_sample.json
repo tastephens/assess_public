@@ -1,0 +1,882 @@
+[
+{"field1":"408","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"1"}
+,
+{"field1":"220","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"2"}
+,
+{"field1":"342","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"3"}
+,
+{"field1":"33","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"4"}
+,
+{"field1":"420","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"5"}
+,
+{"field1":"111","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"6"}
+,
+{"field1":"242","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"7"}
+,
+{"field1":"175","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"8"}
+,
+{"field1":"305","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"9"}
+,
+{"field1":"141","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"10"}
+,
+{"field1":"232","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"11"}
+,
+{"field1":"371","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"12"}
+,
+{"field1":"13","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"13"}
+,
+{"field1":"67","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"14"}
+,
+{"field1":"236","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"15"}
+,
+{"field1":"112","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"16"}
+,
+{"field1":"248","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"17"}
+,
+{"field1":"89","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"18"}
+,
+{"field1":"174","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"19"}
+,
+{"field1":"251","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"20"}
+,
+{"field1":"356","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"21"}
+,
+{"field1":"235","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"22"}
+,
+{"field1":"255","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"23"}
+,
+{"field1":"41","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"24"}
+,
+{"field1":"206","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"25"}
+,
+{"field1":"50","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"26"}
+,
+{"field1":"181","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"27"}
+,
+{"field1":"224","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"28"}
+,
+{"field1":"434","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"29"}
+,
+{"field1":"55","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"30"}
+,
+{"field1":"237","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"31"}
+,
+{"field1":"377","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"32"}
+,
+{"field1":"95","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"33"}
+,
+{"field1":"27","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"34"}
+,
+{"field1":"64","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"35"}
+,
+{"field1":"94","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"36"}
+,
+{"field1":"293","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"37"}
+,
+{"field1":"399","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"38"}
+,
+{"field1":"196","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"39"}
+,
+{"field1":"14","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"40"}
+,
+{"field1":"1","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"41"}
+,
+{"field1":"148","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"42"}
+,
+{"field1":"422","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"43"}
+,
+{"field1":"424","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"44"}
+,
+{"field1":"213","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"45"}
+,
+{"field1":"345","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"46"}
+,
+{"field1":"177","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"47"}
+,
+{"field1":"309","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"48"}
+,
+{"field1":"404","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"49"}
+,
+{"field1":"284","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"50"}
+,
+{"field1":"226","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"51"}
+,
+{"field1":"159","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"52"}
+,
+{"field1":"165","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"53"}
+,
+{"field1":"66","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"54"}
+,
+{"field1":"72","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"55"}
+,
+{"field1":"325","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"56"}
+,
+{"field1":"51","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"57"}
+,
+{"field1":"253","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"58"}
+,
+{"field1":"438","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"59"}
+,
+{"field1":"288","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"60"}
+,
+{"field1":"100","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"61"}
+,
+{"field1":"140","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"62"}
+,
+{"field1":"336","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"63"}
+,
+{"field1":"390","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"64"}
+,
+{"field1":"187","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"65"}
+,
+{"field1":"239","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"66"}
+,
+{"field1":"421","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"67"}
+,
+{"field1":"151","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"68"}
+,
+{"field1":"374","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"69"}
+,
+{"field1":"381","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"70"}
+,
+{"field1":"429","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"71"}
+,
+{"field1":"373","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"72"}
+,
+{"field1":"303","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"73"}
+,
+{"field1":"281","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"74"}
+,
+{"field1":"18","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"75"}
+,
+{"field1":"145","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"76"}
+,
+{"field1":"437","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"77"}
+,
+{"field1":"418","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"78"}
+,
+{"field1":"108","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"79"}
+,
+{"field1":"223","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"80"}
+,
+{"field1":"402","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"81"}
+,
+{"field1":"344","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"82"}
+,
+{"field1":"423","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"83"}
+,
+{"field1":"386","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"84"}
+,
+{"field1":"146","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"85"}
+,
+{"field1":"219","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"86"}
+,
+{"field1":"127","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"87"}
+,
+{"field1":"211","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"88"}
+,
+{"field1":"387","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"89"}
+,
+{"field1":"203","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"90"}
+,
+{"field1":"180","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"91"}
+,
+{"field1":"86","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"92"}
+,
+{"field1":"99","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"93"}
+,
+{"field1":"326","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"94"}
+,
+{"field1":"191","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"95"}
+,
+{"field1":"158","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"96"}
+,
+{"field1":"317","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"97"}
+,
+{"field1":"5","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"98"}
+,
+{"field1":"366","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"99"}
+,
+{"field1":"302","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"100"}
+,
+{"field1":"46","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"101"}
+,
+{"field1":"280","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"102"}
+,
+{"field1":"225","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"103"}
+,
+{"field1":"270","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"104"}
+,
+{"field1":"406","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"105"}
+,
+{"field1":"204","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"106"}
+,
+{"field1":"341","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"107"}
+,
+{"field1":"419","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"108"}
+,
+{"field1":"207","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"109"}
+,
+{"field1":"198","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"110"}
+,
+{"field1":"167","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"111"}
+,
+{"field1":"36","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"112"}
+,
+{"field1":"324","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"113"}
+,
+{"field1":"84","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"114"}
+,
+{"field1":"304","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"115"}
+,
+{"field1":"176","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"116"}
+,
+{"field1":"285","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"117"}
+,
+{"field1":"79","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"118"}
+,
+{"field1":"216","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"119"}
+,
+{"field1":"147","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"120"}
+,
+{"field1":"294","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"121"}
+,
+{"field1":"190","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"122"}
+,
+{"field1":"209","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"123"}
+,
+{"field1":"340","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"124"}
+,
+{"field1":"83","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"125"}
+,
+{"field1":"410","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"126"}
+,
+{"field1":"338","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"127"}
+,
+{"field1":"384","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"128"}
+,
+{"field1":"430","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"129"}
+,
+{"field1":"329","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"130"}
+,
+{"field1":"426","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"131"}
+,
+{"field1":"348","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"132"}
+,
+{"field1":"153","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"133"}
+,
+{"field1":"262","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"134"}
+,
+{"field1":"347","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"135"}
+,
+{"field1":"170","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"136"}
+,
+{"field1":"3","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"137"}
+,
+{"field1":"161","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"138"}
+,
+{"field1":"65","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"139"}
+,
+{"field1":"228","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"140"}
+,
+{"field1":"369","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"141"}
+,
+{"field1":"78","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"142"}
+,
+{"field1":"125","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"143"}
+,
+{"field1":"194","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"144"}
+,
+{"field1":"355","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"145"}
+,
+{"field1":"40","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"146"}
+,
+{"field1":"208","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"147"}
+,
+{"field1":"257","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"148"}
+,
+{"field1":"76","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"149"}
+,
+{"field1":"268","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"150"}
+,
+{"field1":"182","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"151"}
+,
+{"field1":"323","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"152"}
+,
+{"field1":"332","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"153"}
+,
+{"field1":"62","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"154"}
+,
+{"field1":"31","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"155"}
+,
+{"field1":"117","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"156"}
+,
+{"field1":"154","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"157"}
+,
+{"field1":"375","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"158"}
+,
+{"field1":"59","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"159"}
+,
+{"field1":"120","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"160"}
+,
+{"field1":"278","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"161"}
+,
+{"field1":"289","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"162"}
+,
+{"field1":"2","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"163"}
+,
+{"field1":"370","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"164"}
+,
+{"field1":"195","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"165"}
+,
+{"field1":"327","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"166"}
+,
+{"field1":"81","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"167"}
+,
+{"field1":"315","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"168"}
+,
+{"field1":"233","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"169"}
+,
+{"field1":"250","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"170"}
+,
+{"field1":"52","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"171"}
+,
+{"field1":"339","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"172"}
+,
+{"field1":"4","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"173"}
+,
+{"field1":"205","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"174"}
+,
+{"field1":"142","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"175"}
+,
+{"field1":"155","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"176"}
+,
+{"field1":"19","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"177"}
+,
+{"field1":"188","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"178"}
+,
+{"field1":"333","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"179"}
+,
+{"field1":"218","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"180"}
+,
+{"field1":"397","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"181"}
+,
+{"field1":"335","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"182"}
+,
+{"field1":"70","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"183"}
+,
+{"field1":"417","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"184"}
+,
+{"field1":"306","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"185"}
+,
+{"field1":"393","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"186"}
+,
+{"field1":"101","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"187"}
+,
+{"field1":"116","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"188"}
+,
+{"field1":"334","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"189"}
+,
+{"field1":"80","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"190"}
+,
+{"field1":"300","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"191"}
+,
+{"field1":"34","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"192"}
+,
+{"field1":"413","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"193"}
+,
+{"field1":"261","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"194"}
+,
+{"field1":"352","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"195"}
+,
+{"field1":"201","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"196"}
+,
+{"field1":"312","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"197"}
+,
+{"field1":"136","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"198"}
+,
+{"field1":"392","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"199"}
+,
+{"field1":"97","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"200"}
+,
+{"field1":"299","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"201"}
+,
+{"field1":"163","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"202"}
+,
+{"field1":"229","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"203"}
+,
+{"field1":"231","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"204"}
+,
+{"field1":"202","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"205"}
+,
+{"field1":"274","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"206"}
+,
+{"field1":"106","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"207"}
+,
+{"field1":"398","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"208"}
+,
+{"field1":"122","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"209"}
+,
+{"field1":"39","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"210"}
+,
+{"field1":"185","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"211"}
+,
+{"field1":"241","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"212"}
+,
+{"field1":"137","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"213"}
+,
+{"field1":"264","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"214"}
+,
+{"field1":"96","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"215"}
+,
+{"field1":"276","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"216"}
+,
+{"field1":"238","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"217"}
+,
+{"field1":"82","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"218"}
+,
+{"field1":"48","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"219"}
+,
+{"field1":"292","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"220"}
+,
+{"field1":"124","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"221"}
+,
+{"field1":"403","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"222"}
+,
+{"field1":"351","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"223"}
+,
+{"field1":"10","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"224"}
+,
+{"field1":"291","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"225"}
+,
+{"field1":"92","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"226"}
+,
+{"field1":"286","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"227"}
+,
+{"field1":"123","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"228"}
+,
+{"field1":"11","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"229"}
+,
+{"field1":"215","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"230"}
+,
+{"field1":"20","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"231"}
+,
+{"field1":"221","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"232"}
+,
+{"field1":"179","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"233"}
+,
+{"field1":"75","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"234"}
+,
+{"field1":"164","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"235"}
+,
+{"field1":"169","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"236"}
+,
+{"field1":"193","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"237"}
+,
+{"field1":"247","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"238"}
+,
+{"field1":"416","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"239"}
+,
+{"field1":"129","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"240"}
+,
+{"field1":"322","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"241"}
+,
+{"field1":"362","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"242"}
+,
+{"field1":"118","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"243"}
+,
+{"field1":"132","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"244"}
+,
+{"field1":"214","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"245"}
+,
+{"field1":"166","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"246"}
+,
+{"field1":"172","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"247"}
+,
+{"field1":"6","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"248"}
+,
+{"field1":"197","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"249"}
+,
+{"field1":"425","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"250"}
+,
+{"field1":"9","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"251"}
+,
+{"field1":"283","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"252"}
+,
+{"field1":"245","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"253"}
+,
+{"field1":"358","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"254"}
+,
+{"field1":"23","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"255"}
+,
+{"field1":"21","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"256"}
+,
+{"field1":"394","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"257"}
+,
+{"field1":"189","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"258"}
+,
+{"field1":"157","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"259"}
+,
+{"field1":"396","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"260"}
+,
+{"field1":"263","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"261"}
+,
+{"field1":"254","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"262"}
+,
+{"field1":"287","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"263"}
+,
+{"field1":"16","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"264"}
+,
+{"field1":"310","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"265"}
+,
+{"field1":"267","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"266"}
+,
+{"field1":"409","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"267"}
+,
+{"field1":"405","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"268"}
+,
+{"field1":"98","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"269"}
+,
+{"field1":"346","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"270"}
+,
+{"field1":"71","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"271"}
+,
+{"field1":"68","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"272"}
+,
+{"field1":"412","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"273"}
+,
+{"field1":"61","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"274"}
+,
+{"field1":"7","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"275"}
+,
+{"field1":"45","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"276"}
+,
+{"field1":"25","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"277"}
+,
+{"field1":"440","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"278"}
+,
+{"field1":"314","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"279"}
+,
+{"field1":"130","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"280"}
+,
+{"field1":"77","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"281"}
+,
+{"field1":"128","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"282"}
+,
+{"field1":"357","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"283"}
+,
+{"field1":"297","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"284"}
+,
+{"field1":"44","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"285"}
+,
+{"field1":"295","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"286"}
+,
+{"field1":"365","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"287"}
+,
+{"field1":"435","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"288"}
+,
+{"field1":"433","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"289"}
+,
+{"field1":"103","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"290"}
+,
+{"field1":"428","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"291"}
+,
+{"field1":"138","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"292"}
+,
+{"field1":"273","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"293"}
+,
+{"field1":"38","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"294"}
+,
+{"field1":"192","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"295"}
+,
+{"field1":"256","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"296"}
+,
+{"field1":"24","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"297"}
+,
+{"field1":"107","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"298"}
+,
+{"field1":"311","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"299"}
+,
+{"field1":"105","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"300"}
+,
+{"field1":"252","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"301"}
+,
+{"field1":"113","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"302"}
+,
+{"field1":"212","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"303"}
+,
+{"field1":"379","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"304"}
+,
+{"field1":"316","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"305"}
+,
+{"field1":"307","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"306"}
+,
+{"field1":"367","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"307"}
+,
+{"field1":"431","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"308"}
+,
+{"field1":"331","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"309"}
+,
+{"field1":"210","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"310"}
+,
+{"field1":"354","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"311"}
+,
+{"field1":"320","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"312"}
+,
+{"field1":"275","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"313"}
+,
+{"field1":"359","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"314"}
+,
+{"field1":"47","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"315"}
+,
+{"field1":"230","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"316"}
+,
+{"field1":"376","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"317"}
+,
+{"field1":"152","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"318"}
+,
+{"field1":"183","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"319"}
+,
+{"field1":"383","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"320"}
+,
+{"field1":"102","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"321"}
+,
+{"field1":"12","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"322"}
+,
+{"field1":"328","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"323"}
+,
+{"field1":"53","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"324"}
+,
+{"field1":"395","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"325"}
+,
+{"field1":"58","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"326"}
+,
+{"field1":"160","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"327"}
+,
+{"field1":"8","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"328"}
+,
+{"field1":"301","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"329"}
+,
+{"field1":"414","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"330"}
+,
+{"field1":"282","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"331"}
+,
+{"field1":"150","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"332"}
+,
+{"field1":"234","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"333"}
+,
+{"field1":"337","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"334"}
+,
+{"field1":"54","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"335"}
+,
+{"field1":"364","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"336"}
+,
+{"field1":"222","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"337"}
+,
+{"field1":"258","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"338"}
+,
+{"field1":"378","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"339"}
+,
+{"field1":"28","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"340"}
+,
+{"field1":"26","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"341"}
+,
+{"field1":"279","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"342"}
+,
+{"field1":"168","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"343"}
+,
+{"field1":"240","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"344"}
+,
+{"field1":"69","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"345"}
+,
+{"field1":"115","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"346"}
+,
+{"field1":"74","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"347"}
+,
+{"field1":"162","Combination":{"label":"c17"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c17 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H1_C2, H2_C2"},"row":"348"}
+,
+{"field1":"296","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"349"}
+,
+{"field1":"88","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"350"}
+,
+{"field1":"156","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"351"}
+,
+{"field1":"90","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"352"}
+,
+{"field1":"35","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"353"}
+,
+{"field1":"15","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"354"}
+,
+{"field1":"439","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"355"}
+,
+{"field1":"272","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"356"}
+,
+{"field1":"87","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"357"}
+,
+{"field1":"319","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"358"}
+,
+{"field1":"363","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"359"}
+,
+{"field1":"32","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"360"}
+,
+{"field1":"265","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"361"}
+,
+{"field1":"43","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"362"}
+,
+{"field1":"22","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"363"}
+,
+{"field1":"243","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"364"}
+,
+{"field1":"411","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"365"}
+,
+{"field1":"85","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"366"}
+,
+{"field1":"353","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"367"}
+,
+{"field1":"186","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"368"}
+,
+{"field1":"246","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"369"}
+,
+{"field1":"427","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"370"}
+,
+{"field1":"321","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"371"}
+,
+{"field1":"415","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"372"}
+,
+{"field1":"401","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"373"}
+,
+{"field1":"121","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"374"}
+,
+{"field1":"131","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"375"}
+,
+{"field1":"178","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"376"}
+,
+{"field1":"37","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"377"}
+,
+{"field1":"104","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"378"}
+,
+{"field1":"126","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"379"}
+,
+{"field1":"93","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"380"}
+,
+{"field1":"318","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"381"}
+,
+{"field1":"173","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"382"}
+,
+{"field1":"436","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"383"}
+,
+{"field1":"42","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"384"}
+,
+{"field1":"217","Combination":{"label":"c2"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c2 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H4_C2, H3_C2"},"row":"385"}
+,
+{"field1":"349","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"386"}
+,
+{"field1":"350","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"387"}
+,
+{"field1":"184","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"388"}
+,
+{"field1":"249","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"389"}
+,
+{"field1":"380","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"390"}
+,
+{"field1":"139","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"391"}
+,
+{"field1":"244","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"392"}
+,
+{"field1":"91","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"393"}
+,
+{"field1":"266","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"394"}
+,
+{"field1":"361","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"395"}
+,
+{"field1":"260","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"396"}
+,
+{"field1":"388","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"397"}
+,
+{"field1":"29","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"398"}
+,
+{"field1":"330","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"399"}
+,
+{"field1":"389","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"400"}
+,
+{"field1":"73","Combination":{"label":"c13"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c13 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H2_C2, H4_C2"},"row":"401"}
+,
+{"field1":"432","Combination":{"label":"c9"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c9 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H1_C2, H4_C2"},"row":"402"}
+,
+{"field1":"200","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"403"}
+,
+{"field1":"343","Combination":{"label":"c4"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c4 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H4_C2, H2_C2"},"row":"404"}
+,
+{"field1":"114","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"405"}
+,
+{"field1":"133","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"406"}
+,
+{"field1":"385","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"407"}
+,
+{"field1":"119","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"408"}
+,
+{"field1":"171","Combination":{"label":"c18"},"First":{"ad":"H3_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c18 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H4_C2, H2_C2, H1_C2"},"row":"409"}
+,
+{"field1":"109","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"410"}
+,
+{"field1":"143","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"411"}
+,
+{"field1":"144","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"412"}
+,
+{"field1":"227","Combination":{"label":"c20"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c20 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H3_C2, H2_C2"},"row":"413"}
+,
+{"field1":"308","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"414"}
+,
+{"field1":"407","Combination":{"label":"c8"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c8 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H4_C2, H3_C2"},"row":"415"}
+,
+{"field1":"17","Combination":{"label":"c1"},"First":{"ad":"H1_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c1 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H2_C2, H3_C2, H4_C2"},"row":"416"}
+,
+{"field1":"313","Combination":{"label":"c3"},"First":{"ad":"H1_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c3 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H3_C2, H2_C2, H4_C2"},"row":"417"}
+,
+{"field1":"360","Combination":{"label":"c5"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c5 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H2_C2, H3_C2"},"row":"418"}
+,
+{"field1":"57","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"419"}
+,
+{"field1":"110","Combination":{"label":"c14"},"First":{"ad":"H3_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c14 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H1_C2, H4_C2, H2_C2"},"row":"420"}
+,
+{"field1":"134","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"421"}
+,
+{"field1":"372","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"422"}
+,
+{"field1":"290","Combination":{"label":"c23"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c23 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H1_C2, H2_C2"},"row":"423"}
+,
+{"field1":"199","Combination":{"label":"c19"},"First":{"ad":"H4_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c19 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H1_C2, H2_C2, H3_C2"},"row":"424"}
+,
+{"field1":"60","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"425"}
+,
+{"field1":"269","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"426"}
+,
+{"field1":"149","Combination":{"label":"c16"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c16 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H4_C2, H1_C2"},"row":"427"}
+,
+{"field1":"400","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"428"}
+,
+{"field1":"56","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"429"}
+,
+{"field1":"135","Combination":{"label":"c15"},"First":{"ad":"H3_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c15 | G=C2)=1/24"}},"Ordered":{"combination":"H3_C2, H2_C2, H1_C2, H4_C2"},"row":"430"}
+,
+{"field1":"298","Combination":{"label":"c24"},"First":{"ad":"H4_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H2_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c24 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H3_C2, H2_C2, H1_C2"},"row":"431"}
+,
+{"field1":"277","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"432"}
+,
+{"field1":"271","Combination":{"label":"c22"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c22 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H3_C2, H1_C2"},"row":"433"}
+,
+{"field1":"259","Combination":{"label":"c21"},"First":{"ad":"H4_C2"},"Second":{"ad":"H2_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c21 | G=C2)=1/24"}},"Ordered":{"combination":"H4_C2, H2_C2, H1_C2, H3_C2"},"row":"434"}
+,
+{"field1":"30","Combination":{"label":"c10"},"First":{"ad":"H2_C2"},"Second":{"ad":"H3_C2"},"Third":{"ad":"H4_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c10 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H3_C2, H4_C2, H1_C2"},"row":"435"}
+,
+{"field1":"382","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"436"}
+,
+{"field1":"49","Combination":{"label":"c11"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H1_C2"},"Fourth":{"ad":"H3_C2"},"Probability":{"of":{"combination":"P(c11 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H1_C2, H3_C2"},"row":"437"}
+,
+{"field1":"368","Combination":{"label":"c6"},"First":{"ad":"H1_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H2_C2"},"Probability":{"of":{"combination":"P(c6 | G=C2)=1/24"}},"Ordered":{"combination":"H1_C2, H4_C2, H3_C2, H2_C2"},"row":"438"}
+,
+{"field1":"63","Combination":{"label":"c12"},"First":{"ad":"H2_C2"},"Second":{"ad":"H4_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H1_C2"},"Probability":{"of":{"combination":"P(c12 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H4_C2, H3_C2, H1_C2"},"row":"439"}
+,
+{"field1":"391","Combination":{"label":"c7"},"First":{"ad":"H2_C2"},"Second":{"ad":"H1_C2"},"Third":{"ad":"H3_C2"},"Fourth":{"ad":"H4_C2"},"Probability":{"of":{"combination":"P(c7 | G=C2)=1/24"}},"Ordered":{"combination":"H2_C2, H1_C2, H3_C2, H4_C2"},"row":"440"}
+
+]
